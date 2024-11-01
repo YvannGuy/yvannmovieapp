@@ -1,0 +1,6 @@
+{
+  "movies": [
+    { "id": 1, "title": "Inception", "genre": "Sci-Fi", "watched": false },
+    { "id": 2, "title": "The Matrix", "genre": "Action", "watched": true }
+  ]
+}
